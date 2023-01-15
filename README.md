@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tahira Tabassum</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
+- 👩‍🎓 I recently obtained my Computer Science BA degree from CUNY Queens College
+
 - 🔭 I’m currently working as **a Data Management Intern at Make the Road New York, a non-profit Organization**
 
-- 📫 How to reach me **tahiratabassum19@gmail.com**
+- 👩‍💻 I am a fellow participant at CUNY Tech Prep program in data science track
 
-- 📄 Know about my experiences [http://resume](http://resume)
+- ➕ I have experience working as a statistics and computer science tutor at LaGuardia Community College
+
+- 🔎 Currently looking for Entry Level Data Science or Software development positions
+
+- 📫 Reeach me at **tahiratabassum19@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/u/0/d/1dULcTWBUp5DruWZSC2mMkfNNYa-3olPh4eUk6bulvY8/edit)
 
 - ⚡ Fun fact **I am scared of dogs 🐕‍🦺**
 
