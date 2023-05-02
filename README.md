@@ -3,7 +3,7 @@
 
 - 👩‍🎓 I recently obtained my Computer Science BA degree from CUNY Queens College
 
-- 🔭 I’m currently working as **a Data Management Intern at Make the Road New York, a non-profit Organization**
+- 🔭 I worked as **a Data Management Intern at Make the Road New York, a non-profit Organization**
 
 - 👩‍💻 I am a fellow participant at CUNY Tech Prep program in data science track
 
