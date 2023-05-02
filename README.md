@@ -13,7 +13,7 @@
 
 - 📫 Reeach me at **tahiratabassum19@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/u/0/d/1dULcTWBUp5DruWZSC2mMkfNNYa-3olPh4eUk6bulvY8/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1GFpDiLllhXrmVhyTmcAMSVFilxJmftn3-A2xedUXG5U/edit)
 
 - ⚡ Fun fact **I am scared of dogs 🐕‍🦺**
 
