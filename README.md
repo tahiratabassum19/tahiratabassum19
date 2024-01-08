@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahira Tabassum</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-- 👩‍🎓 I recently obtained my Computer Science BA degree from CUNY Queens College
+- 👩‍🎓 I reeived my Computer Science BA degree from CUNY Queens College
 
 - 🔭 I work as Provider Data Coordinator II at Cenetene Corporation**
 
