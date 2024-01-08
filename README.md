@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tahira-tabassum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tahira Tabassum" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tahira-tabassum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tahira Tabassum" height="30" width="40" /></a>
 <a href="https://instagram.com/tahira.tabassum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahira.tabassum" height="30" width="40" /></a>
 <a href="https://tahiratabassum19.github.io/index.html" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-online-portfolio-9-1133508.png?f=webp" alt="tahira.tabassum" height="30" width="40" /></a>
 </p>
